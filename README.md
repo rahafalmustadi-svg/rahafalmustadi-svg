@@ -1,11 +1,13 @@
 ## Hi I'm Rahaf and Network Engineering graduate who loves learning and sharing my journey. 
 ## Currently Learning
-- CCNA - networking labs - Git and GitHub.
+- CCNA
+- networking labs
+-  Git and GitHub.
 ## My Learning Journal. 
 Here I document networking concepts in the way that makes sense to me. I include real-world examples and simple labs when helpful. 
 ## Connect with me
--LinkedIn Rahaf Almustadi 
--Email rahafalmustadi@gmail.com
+-LinkedIn| Rahaf Almustadi 
+-Email |rahafalmustadi@gmail.com
 
 
 
