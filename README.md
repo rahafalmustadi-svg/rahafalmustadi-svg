@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Rahaf🤩. I'm a Computer and Network Engineering graduate🥳👾,Who loves learning, and sharing my journey.
+## 🌐 currently learning - CCNA - NETWORKING LABS.
+## My Learning Journal Here I document networking concepts in the way that I understand them, Adding examples and simple labs when helpful ⛓️‍💥
+## Connect with me -linkedIn:(https://www.linkedin.com/in/rahaf-almustadi-b93a38294?utm_source=share_via&utm_content=profile&utm_medium=member_ios) -email:(rahafalmustadi@gmail.com)
+
+
 
 <!--
 **rahafalmustadi-svg/rahafalmustadi-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
